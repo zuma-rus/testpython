@@ -1,6 +1,6 @@
 import sys
 
-print("path = ", sys.prefix)
+print("pathpython = ", sys.prefix)
 print("version = ", sys.version)
 
 print("Здорова")
